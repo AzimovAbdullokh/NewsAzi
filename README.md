@@ -3,7 +3,8 @@
 
 * Простое приложение, которое написано в чистой архитектуре с использованием языка Kotlin. Он показывает список новостей. В программе можно сортировать по определенным условиям. Также есть функция поиска и переход на сайт источника.
 
-![news1 1](https://user-images.githubusercontent.com/114995936/216961271-be3259a6-96ee-43aaaaec22e867867a56.jpg[16756831277261(https://userimages.githubusercontent.com/114995936/216961479-f3442ad6-8d9f-4187-84de-62974811da25.jpg) ![1675683127731 1](https://user-images.githubusercontent.com/114995936/216961601-c72f124b-7f15-4b4d-9f7f-be1df2c7e119.jpg) ![1675683127729 1](https://user-images.githubusercontent.com/114995936/216961667-395b49d8-8530-4313-8173-834194a06f7e.jpg)
+![news1 2](https://user-images.githubusercontent.com/114995936/216962589-c946207d-d25d-4948-b3c6-452e637d0190.jpg)
+
 
 
 # Libraries
