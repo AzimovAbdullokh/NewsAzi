@@ -7,7 +7,8 @@
   функция поиска и переход на сайт источника.
 
 
-![width = 160](../../Downloads/1675683127722.jpg)
+![1675683127726](https://user-images.githubusercontent.com/114995936/216970025-ddf971f2-9b8e-4402-93e8-211b1b0c7656.jpg)
+
 
 
 ## Libraries
