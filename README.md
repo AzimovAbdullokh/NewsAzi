@@ -4,6 +4,7 @@
 * Простое приложение, которое написано в чистой архитектуре с использованием языка Kotlin. Он показывает список новостей. В программе можно сортировать по определенным условиям. Также есть функция поиска и переход на сайт источника.
 
 ![news1 2](https://user-images.githubusercontent.com/114995936/216962589-c946207d-d25d-4948-b3c6-452e637d0190.jpg)
+[<img src="meta/android/screenshots/screenshot_statistics_screen.jpg" width=160>](meta/android/screenshots/screenshot_statistics_screen.jpg)
 
 
 
