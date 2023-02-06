@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.NewsAzi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#303F9F</item>
+        <item name="colorPrimaryVariant">@color/backGroundAd</item>
+        <item name="colorOnPrimary">@color/colorTextIcons</item>
+        <item name="android:textColor">@color/colorTextIcons</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="color">@color/white</item>
+        <item name="backgroundTint">@color/black_light</item>
+        <item name="backgroundColor">@color/black_light</item>
+        <item name="background">@color/black_light</item>
+                <item name="colorSurface">@color/backGroundAd</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/colorTextIcons</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="bottom_navigation_colors">
+        <item name="iconTint">@color/gold</item>
+    </style>
+</resources>
