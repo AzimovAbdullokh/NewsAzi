@@ -3,7 +3,6 @@ package com.example.com.com.data.cloud.api.news
 import com.example.com.com.data.cloud.api.utils.Utils
 import com.example.com.com.data.cloud.api.utils.Utils.EVERYTHING
 import com.example.com.com.data.cloud.api.utils.Utils.TOP_HEADLINES
-import com.example.com.com.data.cloud.cloud_models.ArticlesCloud
 import com.example.com.com.data.cloud.cloud_models.NewsCloud
 import okhttp3.OkHttpClient
 import retrofit2.Response
@@ -36,8 +35,8 @@ interface NewsApi {
 
 private const val HEADER_API_KEY = "X-Api-Key"
 
-const val DEFAULT_PAGE_SIZE = 20
-const val MAX_PAGE_SIZE = 20
+const val DEFAULT_PAGE_SIZE = 100
+const val MAX_PAGE_SIZE = 100
 
 fun NewsService(apiKey: String): NewsApi {
     val okHttpClient = OkHttpClient.Builder().addInterceptor { chain ->
